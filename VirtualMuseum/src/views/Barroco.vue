@@ -11,12 +11,13 @@
           class="my-4"
           max-width="600"
         ></v-img>
-        <v-video
-          src="path/to/your/video.mp4"
+         
+        <!--<video
+          src="path/video.mp4"
           controls
           class="my-4"
           max-width="600"
-        ></v-video>
+        ></video> -->
         <v-btn color="primary" :href="googleFormsLink" target="_blank">Preencha o Formulário</v-btn>
       </v-col>
     </v-row>
@@ -33,7 +34,7 @@ export default {
         { src: 'path/to/image2.jpg', alt: 'Descrição da Imagem 2' },
         
       ],
-      googleFormsLink: 'https://forms.gle/',
+      googleFormsLink: 'https://forms.gle/your-form-link',
     };
   },
 };

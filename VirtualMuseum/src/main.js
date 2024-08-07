@@ -1,12 +1,17 @@
-import { createApp } from 'vue'
-import App from './App.vue'
-import router from './router'
-import vuetify from './plugins/vuetify'
-import { loadFonts } from './plugins/webfontloader'
+import { createApp } from 'vue';
+import App from './App.vue';
+import router from './router';
+import { createVuetify } from 'vuetify';
+import 'vuetify/styles'; // Importar os estilos do Vuetify
+import '@mdi/font/css/materialdesignicons.css'; // Importar ícones do Material Design
 
-loadFonts()
+const vuetify = createVuetify({
+  
+});
 
-createApp(App)
-  .use(router)
-  .use(vuetify)
-  .mount('#app')
+const app = createApp(App);
+
+app.use(router);
+app.use(vuetify);
+
+app.mount('#app');
