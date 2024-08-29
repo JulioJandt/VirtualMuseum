@@ -3,7 +3,7 @@ import Barroco from '../views/Barroco.vue';
 
 const routes = [
   {
-    path: '/barroco',
+    path: '/',
     name: 'Barroco',
     component: Barroco,
   },
