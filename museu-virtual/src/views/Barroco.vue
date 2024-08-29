@@ -36,6 +36,27 @@
           </v-card-actions>
         </v-card>
       </v-dialog>
+
+      <v-row>
+      <v-col>
+        <p>
+          O Movimento Barroco foi um período artístico e cultural que teve origem na Itália no final do século XVI e se estendeu pela Europa e América Latina até o início do século XVIII. Surgiu em um contexto de mudanças sociais, políticas e religiosas, sendo marcado pela Contrarreforma da Igreja Católica em resposta à Reforma Protestante. O Barroco refletiu as tensões religiosas e políticas da época, com a Europa dividida entre católicos e protestantes, e a arte barroca sendo usada pela igreja como forma de reafirmar sua autoridade e atrair fiéis. O estilo grandioso e opulento do Barroco também foi influenciado pelo fortalecimento das monarquias absolutistas na Europa, refletindo o poder e a riqueza dos reis e da aristocracia. Na América Latina, o Barroco foi introduzido pelos colonizadores europeus e misturou-se com as tradições locais, resultando em um estilo único.
+        </p>
+        <br>
+        <p>
+          O Barroco é caracterizado por sua dramaticidade, emoção, realismo e detalhamento. Os artistas buscavam representar a realidade de forma intensa, com figuras expressivas e cenários ornamentados. A arte barroca também é marcada por movimento e dinamismo, com cenas turbulentas e formas curvas. Uma obra-prima do Barroco é a escultura "Êxtase de Santa Teresa" de Gian Lorenzo Bernini, que retrata a experiência religiosa de forma expressiva e detalhada. "A Vocação de São Mateus" é um exemplo do claroscuro de Caravaggio, com luz dramática destacando as figuras principais. "As Meninas" de Velázquez é um retrato famoso que mistura realidade e ilusão com perspectiva e interação entre personagens.
+        </p>
+        <br>
+        <p>
+          <strong>Artistas importantes:</strong> Gian Lorenzo Bernini é conhecido como o principal representante do Barroco em Roma, destacando-se por sua habilidade em capturar emoção e movimento em suas esculturas. Caravaggio revolucionou a pintura barroca com seu uso dramático de luz e sombra, enquanto Rubens dominou a arte barroca na Europa do Norte com suas cenas vibrantes e figuras exuberantes.
+        </p>
+        <br>
+        <p>
+          <strong>Técnicas e Influência Social:</strong> O Barroco utilizou técnicas inovadoras como o claroscuro e quadratura para criar efeitos visuais impressionantes. Além disso, desempenhou papel crucial na propaganda religiosa e política, com a Igreja Católica e as monarquias utilizando a arte barroca para comunicar suas mensagens.
+        </p>
+      </v-col>
+      </v-row>
+
       <v-btn
       color="primary"
       href="https://docs.google.com/forms/d/e/1FAIpQLSdQHwaqYNfrxqU8qrCUyVbFRwgtkzykXp2UNb6_u8_TTfsj8Q/viewform?usp=sf_link"
