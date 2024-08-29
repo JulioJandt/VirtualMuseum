@@ -36,6 +36,14 @@
           </v-card-actions>
         </v-card>
       </v-dialog>
+      <v-btn
+      color="primary"
+      href="https://docs.google.com/forms/d/e/1FAIpQLSdQHwaqYNfrxqU8qrCUyVbFRwgtkzykXp2UNb6_u8_TTfsj8Q/viewform?usp=sf_link"
+      target="_blank"
+      class="mt-4"
+    >
+      Quiz
+    </v-btn>
     </v-container>
   </template>
   
